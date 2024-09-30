@@ -16,7 +16,6 @@ Package.onUse(function(api) {
     'scss/foundation.scss',
     'scss/_global.scss',
     'scss/settings/_settings.scss',
-    'scss/vendor/normalize.scss',
 
     'scss/components/_accordion-menu.scss',
     'scss/components/_accordion.scss',
