@@ -1,3 +1,4 @@
+this fork simply removes the normaliser so we can add our own
 <p align="center">
   <a href="https://get.foundation/">
     <img src="https://user-images.githubusercontent.com/9939075/38782856-2a64a43e-40fa-11e8-89cd-e873af03b3c4.png" alt="Foundation for Sites 6" width="448px" style="max-width:100%;"/>
